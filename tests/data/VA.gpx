@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="CALTOPO" version="1.1">
+	<wpt lat="37.538816" lon="-77.4357836">
+		<name>RVA</name>
+		<desc>VA State Capitol</desc>
+	</wpt>
+	<wpt lat="37.4999779" lon="-77.5915848">
+		<name>BASE</name>
+		<desc>Virginia Department of Emergency Management</desc>
+	</wpt>
+	<wpt lat="37.6288312" lon="-77.5175917">
+		<name>Henrico</name>
+		<desc>County of Henrico</desc>
+	</wpt>
+	<wpt lat="37.5065837" lon="-77.3229999">
+		<name>RIC</name>
+		<desc>Richmond Airport</desc>
+	</wpt>
+	<trk>
+		<name>Base to RIC</name>
+		<trkseg>
+			<trkpt lat="37.499977900" lon="-77.591584800"/>
+			<trkpt lat="37.500921586" lon="-77.553215529"/>
+			<trkpt lat="37.501865271" lon="-77.514846257"/>
+			<trkpt lat="37.502808957" lon="-77.476476986"/>
+			<trkpt lat="37.503752643" lon="-77.438107714"/>
+			<trkpt lat="37.504696329" lon="-77.399738443"/>
+			<trkpt lat="37.505640014" lon="-77.361369171"/>
+			<trkpt lat="37.506583700" lon="-77.322999900"/>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>RVA to Henrico</name>
+		<trkseg>
+			<trkpt lat="37.538816000" lon="-77.435783600"/>
+			<trkpt lat="37.551675314" lon="-77.447470471"/>
+			<trkpt lat="37.564534629" lon="-77.459157343"/>
+			<trkpt lat="37.577393943" lon="-77.470844214"/>
+			<trkpt lat="37.590253257" lon="-77.482531086"/>
+			<trkpt lat="37.603112571" lon="-77.494217957"/>
+			<trkpt lat="37.615971886" lon="-77.505904829"/>
+			<trkpt lat="37.628831200" lon="-77.517591700"/>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>RVA to RIC</name>
+		<desc>night</desc>
+		<trkseg>
+			<trkpt lat="37.538816000" lon="-77.435783600"><time>2021-03-14T05:00:00Z</time></trkpt>
+			<trkpt lat="37.534211386" lon="-77.419671643"><time>2021-03-14T05:15:00Z</time></trkpt>
+			<trkpt lat="37.529606771" lon="-77.403559686"><time>2021-03-14T05:30:00Z</time></trkpt>
+			<trkpt lat="37.525002157" lon="-77.387447729"><time>2021-03-14T05:45:00Z</time></trkpt>
+			<trkpt lat="37.520397543" lon="-77.371335771"><time>2021-03-14T06:00:00Z</time></trkpt>
+			<trkpt lat="37.515792929" lon="-77.355223814"><time>2021-03-14T06:15:00Z</time></trkpt>
+			<trkpt lat="37.511188314" lon="-77.339111857"><time>2021-03-14T06:30:00Z</time></trkpt>
+			<trkpt lat="37.506583700" lon="-77.322999900"><time>2021-03-14T06:45:00Z</time></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>RIC to Henrico</name>
+		<desc>day</desc>
+		<trkseg>
+			<trkpt lat="37.506583700" lon="-77.322999900"><time>2021-03-14T13:00:00Z</time></trkpt>
+			<trkpt lat="37.524047629" lon="-77.350798729"><time>2021-03-14T13:15:00Z</time></trkpt>
+			<trkpt lat="37.541511557" lon="-77.378597557"><time>2021-03-14T13:30:00Z</time></trkpt>
+			<trkpt lat="37.558975486" lon="-77.406396386"><time>2021-03-14T13:45:00Z</time></trkpt>
+			<trkpt lat="37.576439414" lon="-77.434195214"><time>2021-03-14T14:00:00Z</time></trkpt>
+			<trkpt lat="37.593903343" lon="-77.461994043"><time>2021-03-14T14:15:00Z</time></trkpt>
+			<trkpt lat="37.611367271" lon="-77.489792871"><time>2021-03-14T14:30:00Z</time></trkpt>
+			<trkpt lat="37.628831200" lon="-77.517591700"><time>2021-03-14T14:45:00Z</time></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>Henrico to VDEM</name>
+		<desc>morning</desc>
+		<trkseg>
+			<trkpt lat="37.628831200" lon="-77.517591700"><time>2021-03-14T10:00:00Z</time></trkpt>
+			<trkpt lat="37.610423586" lon="-77.528162143"><time>2021-03-14T10:15:00Z</time></trkpt>
+			<trkpt lat="37.592015971" lon="-77.538732586"><time>2021-03-14T10:30:00Z</time></trkpt>
+			<trkpt lat="37.573608357" lon="-77.549303029"><time>2021-03-14T10:45:00Z</time></trkpt>
+			<trkpt lat="37.555200743" lon="-77.559873471"><time>2021-03-14T11:00:00Z</time></trkpt>
+			<trkpt lat="37.536793129" lon="-77.570443914"><time>2021-03-14T11:15:00Z</time></trkpt>
+			<trkpt lat="37.518385514" lon="-77.581014357"><time>2021-03-14T11:30:00Z</time></trkpt>
+			<trkpt lat="37.499977900" lon="-77.591584800"><time>2021-03-14T11:45:00Z</time></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>VEDM to RVA</name>
+		<desc>evening</desc>
+		<trkseg>
+			<trkpt lat="37.499977900" lon="-77.591584800"><time>2021-03-14T23:30:00Z</time></trkpt>
+			<trkpt lat="37.505526200" lon="-77.569327486"><time>2021-03-14T23:45:00Z</time></trkpt>
+			<trkpt lat="37.511074500" lon="-77.547070171"><time>2021-03-15T00:00:00Z</time></trkpt>
+			<trkpt lat="37.516622800" lon="-77.524812857"><time>2021-03-15T00:15:00Z</time></trkpt>
+			<trkpt lat="37.522171100" lon="-77.502555543"><time>2021-03-15T00:30:00Z</time></trkpt>
+			<trkpt lat="37.527719400" lon="-77.480298229"><time>2021-03-15T00:45:00Z</time></trkpt>
+			<trkpt lat="37.533267700" lon="-77.458040914"><time>2021-03-15T01:00:00Z</time></trkpt>
+			<trkpt lat="37.538816000" lon="-77.435783600"><time>2021-03-15T01:15:00Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
